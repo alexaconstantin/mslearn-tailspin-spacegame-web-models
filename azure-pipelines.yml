@@ -40,6 +40,6 @@ steps:
   inputs:
     command: push
     nuGetFeedType: 'internal'
-    publishVstsFeed: 'TestFeed'
+    publishVstsFeed: 'alexaconstantin'
     allowPackageConflicts: true
   condition: succeeded()
